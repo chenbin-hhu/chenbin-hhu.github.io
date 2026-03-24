@@ -1,5 +1,4 @@
 ---
-<img src="/images/chenbin.jpg" width="200" align="right">
 permalink: /
 title: "一段话介绍"
 author_profile: true
@@ -7,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<img src="/images/chenbin.jpg" width="200" align="right">
 陈斌，山东济宁人，博士，江苏省特聘教授。先后在英国斯旺西大学、帝国理工学院、美国劳伦斯伯克利国家实验室从事博士及博士后研究，一直致力于应用计算力学与理论分析方法解决前沿科学与工程领域内岩石宏细观破坏问题。作为项目骨干参与了欧盟地平线2020及美国国家实验室联合项目等多项重大课题，主持并完成国家重点实验室开放课题1项。以第一/通讯作者在领域内知名期刊发表SCI 论文11篇，其中高被引论文1篇，热点论文2篇。发表在SCI期刊《Engineering Computations》上的学术论文荣获最佳论文奖。获评Emerald出版社2018年度卓越审稿人，任SCI期刊《Int. J. Min. Sic. Techno.》（IF:11.8）、《J. Cent. South Univ.》（IF:4.4）青年编委。登记软件著作权2项。多次参加美国岩石力学大会等重要国际学术会议并作报告。
 
 ## 教育经历
